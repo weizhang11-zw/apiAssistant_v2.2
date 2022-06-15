@@ -32,3 +32,5 @@ class RunMain(unittest.TestCase):
         """
         result = RunCase(file_path, sheet_name).run_case_by_data(data)  # 执行单个测试用例
         self.assertTrue(result[0], msg=f"{result[1]} {result[2]} {result[3]} 条件不成立")  # 断言响应结果存在
+      
+        return result
