@@ -19,7 +19,6 @@ file_name = 'report_{}.html'.format(GetTime().get_nowtime())
 basedir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 log_dir = os.path.join(basedir, "reports")
 report_name = os.path.join(log_dir, file_name)
-# report_name = '../reports/' + file_name
 
 # 通过open()方法以二进制写模式('wb')打开当前目录下的report.html，如果没有，则自动创建
 fp = open(report_name, 'wb')
@@ -32,4 +31,6 @@ runner = HTMLTestRunner(
 
 # 执行测试套件
 runner.run(suite)
+
+# 关闭文件
 fp.close()
