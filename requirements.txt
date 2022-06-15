@@ -1,0 +1,9 @@
+Faker==13.11.1
+jsonpath==0.82
+jsonpath_rw==1.4.0
+openpyxl==3.0.3
+PyMySQL==0.8.1
+PyYAML==6.0
+requests==2.18.4
+tqdm==4.62.3
+XTestRunner==1.4.2

@@ -1,0 +1,24 @@
+
+wpython:S1192ª"RDefine a constant instead of duplicating this literal "è¯·æ±‚å‚æ•°ï¼š%s" 4 times.(±ãìøÿÿÿÿ8íµëª0
+Ypython:S1481ó"4Remove the unused local variable "response_headers".(’Ã›Áùÿÿÿÿ8íµëª0
+Tpython:S1481ö"4Remove the unused local variable "response_headers".(İüß´8íµëª0
+Opython:S1481\"+Remove the unused local variable "case_id".(àã¼Øşÿÿÿÿ8íµëª0
+xpython:S3776F"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(á…‘Áùÿÿÿÿ8íµëª0
+<python:S125]"Remove this commented out code.(èŠê8íµëª0
+Spython:S1656t"/Remove or correct this useless self-assignment.(÷Æ¸Æùÿÿÿÿ8íµëª0
+=python:S125}"Remove this commented out code.(—‹íì8íµëª0
+>python:S125…"Remove this commented out code.(ÆÔœ¦8íµëª0
+>python:S125¯"Remove this commented out code.(ÉÎÑê8íµëª0
+>python:S125É"Remove this commented out code.(ÉÎÑê8õµëª0
+Cpython:S125Í"Remove this commented out code.(£ü’øÿÿÿÿ8õµëª0
+>python:S125Ş"Remove this commented out code.(ÉÎÑê8õµëª0
+\python:S5754õ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8õµëª0
+>python:S125ø"Remove this commented out code.(›ÂÜ¼8õµëª0
+Cpython:S125ş"Remove this commented out code.(Íâş¬üÿÿÿÿ8õµëª0
+>python:S125"Remove this commented out code.(±×Õ±8õµëª0
+Cpython:S125†"Remove this commented out code.(’µ”şÿÿÿÿ8õµëª0
+>python:S125Œ"Remove this commented out code.(Ø‚Ş8õµëª0
+>python:S125²"Remove this commented out code.(ò’†8õµëª0
+Cpython:S125Ü"Remove this commented out code.(×åİ“üÿÿÿÿ8õµëª0
+Cpython:S125Û"Remove this commented out code.(·ÌÄ‚øÿÿÿÿ8õµëª0
+>python:S125à"Remove this commented out code.(ì¢£‘8õµëª0
